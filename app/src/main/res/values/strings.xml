@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI Calculator App</string>
+    <string name="btCalculate">Calculate BMI</string>
+    <string name="inputWgt">Weight in lbs</string>
+    <string name="inputHgt">Height in inches</string>
+    <string name="ivDescription">BMI Result Image</string>
+    <string name="tvResult">The Final Result</string>
+    <string name="tvTitle">BMI Calculator App</string>
+</resources>
